@@ -1,6 +1,5 @@
 - 👋 Hey Guys, I am Zain.
-- 👀 I like to code.
 - 🌱 I’m professional Flutter Developer.
-- 💞️ I’m looking to collaborate on Fltter Projects.
+- 💞️ I’m looking to collaborate on Flutter Projects.
 - 📫 Reach me at my gmail muhammadzain9755@gmail.com
 
